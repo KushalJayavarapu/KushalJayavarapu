@@ -12,6 +12,6 @@ Right now I'm working with Finkuby and TideMark Robotics and on my capstone proj
 
 ## Find me
 
-- Website: 🚧 coming soon, still building
+- Website: https://kushal-portfolio-a3p.pages.dev/
 - LinkedIn: https://www.linkedin.com/in/kushaljayavarapu/
 - Email: Kushalval2006@gmail.com
